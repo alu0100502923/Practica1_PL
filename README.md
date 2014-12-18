@@ -1,9 +1,18 @@
-Practica1_PL
-============
+# Naranjero
+#Practica 12 Productor consumidor.
+Práctica de Laboratorio 12
 
-Conversor de Temperatura
 
-Autor: Juan Antonio Oliva Pérez
+Trabajo:
 
-Enlace a la Página:
-http://alu0100502923.github.io/Practica1_PL
+* Implementar una clase Naranjero.
+
+* Implementar un thread para hacer crecer un naranjero
+
+* Implementar un thread para recolectar naranjas
+
+Realizado por:
+
+* Juan Tareq Gonzalez de Chavez Perez
+
+* Jose Manuel Hernandez Hernandez
